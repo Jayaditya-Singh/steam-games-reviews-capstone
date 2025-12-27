@@ -53,6 +53,14 @@ Game‑Level Insights
 Sentiment Dynamics
 - Recommendation rates remain relatively stable over time, with minor fluctuations that may reflect updates or community sentiment shifts.
 
+Full Dataset Access
+The full datasets exceed GitHub’s file size limits. They are hosted externally for download:
+- Raw Steam Reviews Dataset (~475 MB): https://docs.google.com/document/d/1yowoKfo3Y8Go-Va7GoK3ZzMj2ShrdiaC0-EtCwgTEZk/edit?usp=sharing
+- Cleaned Dataset (~432 MB): https://docs.google.com/document/d/1yowoKfo3Y8Go-Va7GoK3ZzMj2ShrdiaC0-EtCwgTEZk/edit?usp=sharing
+Sample datasets are included in this repository for reproducibility:
+- steam_game_reviews_sample.csv
+- steam_games_cleaned_sample.csv
+
 Tools & Technologies
 - Python (pandas, numpy, matplotlib, seaborn)
 - Jupyter Notebook
